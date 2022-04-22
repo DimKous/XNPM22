@@ -1,5 +1,13 @@
 #+TITLE: Readme
 
+* Intro
+
+We are ....
+
+We use ...
+
+We want to ...
+
 * Call for Participations
 
 As part of the centenary celebrations for the birth of Iannis Xenakis, the Performative Environments Arts Research Lab at the Department of Audiovisual Arts of the Ionian University, in collaboration with Athens Conservatory and the Meta-Xenakis  consortium are planning a “Xenakis Networked Performance Marathon” from Friday, December 16 to Saturday, December 17, 2022.  At this marathon, works will be performed at the same time at Athens Conservatory (Athens), as well as other venues worldwide, using the interenet to transmit control data, audio and video and to coordinate performances between different locations. Our aim is to enable artists to perform their works from remote locations and to recreate these works in real time in Athens and other venues by running the software that creates these performances locally, based on the data received from the performers over the internet.  
@@ -7,6 +15,7 @@ As part of the centenary celebrations for the birth of Iannis Xenakis, the Perfo
 Performance data from live coders, scores, instrumental performers, dancers, installations and other media formats, will be shared between individual coders, performers and venues anywhere in the world live during the performances, enabling different realizations at each venue.  The main data format will be Open Sound Control (OSC), and data will be broadcast to all performing venues via OscGroups (http://www.rossbencina.com/code/oscgroups).   Additionally we will provide audio and video streaming.  At Athens Conservatory we will provide support for recreating performances on various software platforms such as SuperCollider, TidalCycles, FoxTrot, SEMA and others.
 
 Participants are invited to submit works inspired by Iannis Xenakis' techniques or thought to be performed at this marathon, including but not limited to Live Coding performances. The local performance group is designing a performance in which dancers equipped with wearable motion sensors will drive and/or modify sound with data from their movement both locally and remotely supported by OscGroups.  We invite proposals from other artists to develop and present works based on OSC and perform them concurrently in real time on various locations in the world.
+
 * Background, Motivation
 
 * Objectives

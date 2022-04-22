@@ -7,3 +7,10 @@ As part of the centenary celebrations for the birth of Iannis Xenakis, the Perfo
 Performance data from live coders, scores, instrumental performers, dancers, installations and other media formats, will be shared between individual coders, performers and venues anywhere in the world live during the performances, enabling different realizations at each venue.  The main data format will be Open Sound Control (OSC), and data will be broadcast to all performing venues via OscGroups (http://www.rossbencina.com/code/oscgroups).   Additionally we will provide audio and video streaming.  At Athens Conservatory we will provide support for recreating performances on various software platforms such as SuperCollider, TidalCycles, FoxTrot, SEMA and others.
 
 Participants are invited to submit works inspired by Iannis Xenakis' techniques or thought to be performed at this marathon, including but not limited to Live Coding performances. The local performance group is designing a performance in which dancers equipped with wearable motion sensors will drive and/or modify sound with data from their movement both locally and remotely supported by OscGroups.  We invite proposals from other artists to develop and present works based on OSC and perform them concurrently in real time on various locations in the world.
+* Background, Motivation
+
+* Objectives
+
+* Tools
+
+* Networks, Partners, Social

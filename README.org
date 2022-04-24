@@ -3,6 +3,18 @@
 * Intro
 
 We are a group of musicians and sonic intermedia artists from Greece, working with SuperCollider as well as with related other environments for live sound and graphics synthesis.  We use OSCGroups to explore ways for collaborative performance over the internet.  In particular, using the library sc-hacks-redux and OscGroups servers set up on the cloud, we are able to perform in groups while sharing both code and data over the internet, so that the local computer of each musician runs an exact mirror of the entire performance (code and data) at each moment (similar to gemers sharing a multiplayer real-time virtual world).  We are looking to attract other groups in order to create performances where we collaborate live over the internet, creating simultaneous performances of the same work in remotely located venues anywhere in the world.  As first milestone to test this idea we have issued the following call:
+* Call For Participation: Xenakis Networked Performance Marathon 2022
+
+As part of the centenary celebrations for the birth of Iannis Xenakis, the Performative Environments Arts Research Lab at the Department of Audiovisual Arts of the Ionian University, in collaboration with Athens Conservatory and the Meta-Xenakis consortium are planning a “Xenakis Networked Performance Marathon” from Friday, December 16 19:00 (local time EEST), to Saturday, December 17, 2022, 21:00 (local time, EEST).  During this marathon, works will be performed at the same time at Athens Conservatory (Athens), as well as other venues worldwide, using the internet to transmit control data, audio and video and to coordinate performances between different locations. Our aim is to enable artists to perform their works from remote locations and to recreate these works in real time in Athens and other venues by running the software that creates these performances locally, based on the data received from the performers over the internet.  
+
+Performance data from live coders, scores, instrumental performers, dancers, installations and other media formats, will be shared live between individual coders, performers and venues anywhere in the world during the performances, enabling different realizations at each venue.  The main data format will be Open Sound Control (OSC), and data will be broadcast to all performing venues via OscGroups (http://www.rossbencina.com/code/oscgroups).   Additionally we will provide audio and video streaming.  At the Athens Conservatory we will provide support for recreating performances on various software platforms such as SuperCollider, TidalCycles, FoxDot, SEMA and others.
+
+Participants are invited to submit works inspired by Iannis Xenakis's techniques or thinking to be performed at this marathon, including but not limited to Live Coding performances. The Athens performance group is, for example, designing a performance in which dancers equipped with wearable motion sensors will drive and/or modify sound with data from their movement both locally and remotely, supported by OscGroups.  We invite proposals from other artists to develop and present works based on OSC and perform them concurrently in real time in various locations throughout the world.
+
+We encourage proposals in any format provided that a remote networked component is involved.  We will support the realization of different types of presentations on-site, and invite especially performances that involve an embodied aspect by transmitting data of sensors from performers but also from other sources.
+
+All submissions should be submitted by June 15 here: https://easychair.org/my/conference?conf=xnpm22
+Results will be announced on August 1st, 2022.
 
 * Supported technololgies, tools, ideas for works
 
